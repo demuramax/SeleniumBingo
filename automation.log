@@ -1,0 +1,497 @@
+06/27/2022 00:44:19 -HomePage - INFO: Element Found with locator a[title='Home'] and locatorType css
+06/27/2022 00:44:20 -HomePage - INFO: Element Found with locator a[title='Games'] and locatorType css
+06/27/2022 00:44:20 -HomePage - INFO: Element Found with locator Bingo and locatorType linktext
+06/27/2022 00:44:21 -HomePage - INFO: Element Found with locator //a[@href='https://clienthub.pragmaticplay.com/'] and locatorType xpath
+06/27/2022 00:44:21 -HomePage - INFO: Element Found with locator Company and locatorType linktext
+06/27/2022 00:44:21 -HomePage - INFO: Element Found with locator News and locatorType linktext
+06/27/2022 00:44:22 -HomePage - INFO: Element Found with locator //a[@href='https://pragmaticplay.com/en/contact#form'] and locatorType xpath
+06/27/2022 00:45:58 -HomePage - INFO: Element Found with locator a[title='Home'] and locatorType css
+06/27/2022 00:45:58 -HomePage - INFO: Element Found with locator a[title='Games'] and locatorType css
+06/27/2022 00:45:59 -HomePage - INFO: Element Found with locator Bingo and locatorType linktext
+06/27/2022 00:45:59 -HomePage - INFO: Element Found with locator //a[@href='https://clienthub.pragmaticplay.com/'] and locatorType xpath
+06/27/2022 00:46:00 -HomePage - INFO: Element Found with locator Company and locatorType linktext
+06/27/2022 00:46:00 -HomePage - INFO: Element Found with locator News and locatorType linktext
+06/27/2022 00:46:01 -HomePage - INFO: Element Found with locator //a[@href='https://pragmaticplay.com/en/contact#form'] and locatorType xpath
+06/27/2022 00:54:36 -HomePage - INFO: Element Found with locator a[title='Home'] and locatorType css
+06/27/2022 00:54:37 -HomePage - INFO: Element Found with locator a[title='Games'] and locatorType css
+06/27/2022 00:54:37 -HomePage - INFO: Element Found with locator Bingo and locatorType linktext
+06/27/2022 00:54:37 -HomePage - INFO: Element Found with locator //a[@href='https://clienthub.pragmaticplay.com/'] and locatorType xpath
+06/27/2022 00:54:38 -HomePage - INFO: Element Found with locator Company and locatorType linktext
+06/27/2022 00:54:38 -HomePage - INFO: Element Found with locator News and locatorType linktext
+06/27/2022 00:54:38 -HomePage - INFO: Element Found with locator //a[@href='https://pragmaticplay.com/en/contact#form'] and locatorType xpath
+06/27/2022 01:01:41 -HomePage - INFO: Element Found with locator a[title='Home'] and locatorType css
+06/27/2022 01:01:41 -HomePage - INFO: Element Found with locator a[title='Home'] and locatorType css
+06/27/2022 01:01:42 -HomePage - INFO: Element value CSS color Found with locator a[title='Home'] and locatorType css
+06/27/2022 01:01:42 -HomePage - INFO: Element Found with locator a[title='Home'] and locatorType css
+06/27/2022 01:01:42 -HomePage - INFO: Hovered on the element with locator: a[title='Home']locatorType: css
+06/27/2022 01:01:42 -HomePage - INFO: Element Found with locator a[title='Home'] and locatorType css
+06/27/2022 01:01:42 -HomePage - INFO: Element value CSS color Found with locator a[title='Home'] and locatorType css
+06/27/2022 01:01:42 -HomePage - INFO: Element Found with locator a[title='Games'] and locatorType css
+06/27/2022 01:01:42 -HomePage - INFO: Element not Found with locator <selenium.webdriver.remote.webelement.WebElement (session="45449aca6614c6cdd3a0a2be99c573cf", element="d1eb1744-f880-49e6-9567-d87881538900")> and locatorType css
+06/27/2022 01:01:42 -HomePage - INFO: Element value CSS background not Found with locator <selenium.webdriver.remote.webelement.WebElement (session="45449aca6614c6cdd3a0a2be99c573cf", element="d1eb1744-f880-49e6-9567-d87881538900")> and locatorType css
+06/27/2022 01:01:42 -HomePage - INFO: Element not Found with locator <selenium.webdriver.remote.webelement.WebElement (session="45449aca6614c6cdd3a0a2be99c573cf", element="d1eb1744-f880-49e6-9567-d87881538900")> and locatorType css
+06/27/2022 01:01:42 -HomePage - INFO: Element value CSS background not Found with locator <selenium.webdriver.remote.webelement.WebElement (session="45449aca6614c6cdd3a0a2be99c573cf", element="d1eb1744-f880-49e6-9567-d87881538900")> and locatorType css
+06/27/2022 01:01:43 -HomePage - INFO: Element Found with locator Bingo and locatorType linktext
+06/27/2022 01:01:43 -HomePage - INFO: Element not Found with locator <selenium.webdriver.remote.webelement.WebElement (session="45449aca6614c6cdd3a0a2be99c573cf", element="5b37637b-bdd0-40aa-8097-38eef48af00e")> and locatorType css
+06/27/2022 01:01:43 -HomePage - INFO: Element value CSS color not Found with locator <selenium.webdriver.remote.webelement.WebElement (session="45449aca6614c6cdd3a0a2be99c573cf", element="5b37637b-bdd0-40aa-8097-38eef48af00e")> and locatorType css
+06/27/2022 07:31:49 -HomePage - INFO: Element Found with locator a[title='Home'] and locatorType css
+06/27/2022 07:31:49 -HomePage - INFO: Element Found with locator a[title='Games'] and locatorType css
+06/27/2022 07:31:50 -HomePage - INFO: Element Found with locator Bingo and locatorType linktext
+06/27/2022 07:31:50 -HomePage - INFO: Element Found with locator //a[@href='https://clienthub.pragmaticplay.com/'] and locatorType xpath
+06/27/2022 07:31:51 -HomePage - INFO: Element Found with locator Company and locatorType linktext
+06/27/2022 07:31:52 -HomePage - INFO: Element Found with locator News and locatorType linktext
+06/27/2022 07:31:52 -HomePage - INFO: Element Found with locator //a[@href='https://pragmaticplay.com/en/contact#form'] and locatorType xpath
+06/27/2022 07:37:50 -HomePage - INFO: Element Found with locator a[title='Home'] and locatorType css
+06/27/2022 07:37:50 -HomePage - INFO: Element Found with locator a[title='Home'] and locatorType css
+06/27/2022 07:37:50 -HomePage - INFO: Element value CSS color not Found with locator a[title='Home'] and locatorType css
+06/27/2022 07:44:59 -HomePage - INFO: Element Found with locator a[title='Home'] and locatorType css
+06/27/2022 07:44:59 -HomePage - INFO: Element Found with locator a[title='Home'] and locatorType css
+06/27/2022 07:44:59 -HomePage - INFO: Element value CSS color not Found with locator a[title='Home'] and locatorType css
+06/27/2022 07:54:24 -HomePage - INFO: Element Found with locator a[title='Home'] and locatorType css
+06/27/2022 07:54:24 -HomePage - INFO: Element Found with locator a[title='Home'] and locatorType css
+06/27/2022 07:54:24 -HomePage - INFO: Hovered on the element with locator: a[title='Home']  locatorType:  css
+06/27/2022 07:54:24 -HomePage - INFO: Element Found with locator a[title='Games'] and locatorType css
+06/27/2022 07:54:28 -HomePage - INFO: Element not Found with locator a[title='Games'] and locatorType xpath
+06/27/2022 07:54:28 -HomePage - INFO: Cannot hover on the element with locator a[title='Games'] locatorType: xpath
+06/27/2022 07:54:31 -HomePage - INFO: Element not Found with locator Bingo and locatorType linktext
+06/27/2022 07:59:17 -HomePage - INFO: Element Found with locator a[title='Home'] and locatorType css
+06/27/2022 07:59:17 -HomePage - INFO: Element Found with locator a[title='Home'] and locatorType css
+06/27/2022 07:59:17 -HomePage - INFO: Hovered on the element with locator: a[title='Home']  locatorType:  css
+06/27/2022 07:59:17 -HomePage - INFO: Element Found with locator a[title='Games'] and locatorType css
+06/27/2022 07:59:18 -HomePage - INFO: Element Found with locator a[title='Games'] and locatorType css
+06/27/2022 07:59:18 -HomePage - INFO: Hovered on the element with locator: a[title='Games']  locatorType:  css
+06/27/2022 07:59:18 -HomePage - INFO: Element Found with locator Bingo and locatorType linktext
+06/27/2022 07:59:18 -HomePage - INFO: Element Found with locator Bingo and locatorType linktext
+06/27/2022 07:59:19 -HomePage - INFO: Hovered on the element with locator: Bingo  locatorType:  linktext
+06/27/2022 07:59:19 -HomePage - INFO: Element Found with locator //a[@href='https://clienthub.pragmaticplay.com/'] and locatorType xpath
+06/27/2022 07:59:19 -HomePage - INFO: Element Found with locator //a[@href='https://clienthub.pragmaticplay.com/'] and locatorType xpath
+06/27/2022 07:59:19 -HomePage - INFO: Hovered on the element with locator: //a[@href='https://clienthub.pragmaticplay.com/']  locatorType:  xpath
+06/27/2022 07:59:20 -HomePage - INFO: Element Found with locator Company and locatorType linktext
+06/27/2022 07:59:20 -HomePage - INFO: Element Found with locator Company and locatorType linktext
+06/27/2022 07:59:20 -HomePage - INFO: Hovered on the element with locator: Company  locatorType:  linktext
+06/27/2022 07:59:20 -HomePage - INFO: Element Found with locator News and locatorType linktext
+06/27/2022 07:59:20 -HomePage - INFO: Element Found with locator News and locatorType linktext
+06/27/2022 07:59:21 -HomePage - INFO: Hovered on the element with locator: News  locatorType:  linktext
+06/27/2022 07:59:21 -HomePage - INFO: Element Found with locator //a[@href='https://pragmaticplay.com/en/contact#form'] and locatorType xpath
+06/27/2022 07:59:21 -HomePage - INFO: Element Found with locator //a[@href='https://pragmaticplay.com/en/contact#form'] and locatorType xpath
+06/27/2022 07:59:21 -HomePage - INFO: Hovered on the element with locator: //a[@href='https://pragmaticplay.com/en/contact#form']  locatorType:  xpath
+06/27/2022 08:03:37 -HomePage - INFO: Element Found with locator a[title='Home'] and locatorType css
+06/27/2022 08:03:37 -HomePage - INFO: Element Found with locator a[title='Home'] and locatorType css
+06/27/2022 08:03:37 -HomePage - INFO: Element value CSS color Found with locator a[title='Home'] and locatorType css
+06/27/2022 08:03:37 -HomePage - INFO: Element Found with locator a[title='Home'] and locatorType css
+06/27/2022 08:03:38 -HomePage - INFO: Hovered on the element with locator: a[title='Home']  locatorType:  css
+06/27/2022 08:03:38 -HomePage - INFO: Element Found with locator a[title='Home'] and locatorType css
+06/27/2022 08:03:38 -HomePage - INFO: Element value CSS color Found with locator a[title='Home'] and locatorType css
+06/27/2022 08:03:38 -HomePage - INFO: Element Found with locator a[title='Games'] and locatorType css
+06/27/2022 08:03:38 -HomePage - INFO: Element Found with locator a[title='Games'] and locatorType css
+06/27/2022 08:03:38 -HomePage - INFO: Element value CSS background Found with locator a[title='Games'] and locatorType css
+06/27/2022 08:03:38 -HomePage - INFO: Element Found with locator a[title='Games'] and locatorType css
+06/27/2022 08:03:38 -HomePage - INFO: Hovered on the element with locator: a[title='Games']  locatorType:  css
+06/27/2022 08:03:38 -HomePage - INFO: Element Found with locator a[title='Games'] and locatorType css
+06/27/2022 08:03:39 -HomePage - INFO: Element value CSS background Found with locator a[title='Games'] and locatorType css
+06/27/2022 08:03:39 -HomePage - INFO: Element Found with locator Bingo and locatorType linktext
+06/27/2022 08:03:39 -HomePage - INFO: Element Found with locator Bingo and locatorType linktext
+06/27/2022 08:03:39 -HomePage - INFO: Element value CSS color Found with locator Bingo and locatorType linktext
+06/27/2022 08:03:39 -HomePage - INFO: Element Found with locator Bingo and locatorType linktext
+06/27/2022 08:03:39 -HomePage - INFO: Hovered on the element with locator: Bingo  locatorType:  linktext
+06/27/2022 08:03:39 -HomePage - INFO: Element Found with locator Bingo and locatorType linktext
+06/27/2022 08:03:39 -HomePage - INFO: Element value CSS color Found with locator Bingo and locatorType linktext
+06/27/2022 08:03:39 -HomePage - INFO: Element Found with locator //a[@href='https://clienthub.pragmaticplay.com/'] and locatorType xpath
+06/27/2022 08:03:39 -HomePage - INFO: Element Found with locator //a[@href='https://clienthub.pragmaticplay.com/'] and locatorType xpath
+06/27/2022 08:03:39 -HomePage - INFO: Element value CSS color Found with locator //a[@href='https://clienthub.pragmaticplay.com/'] and locatorType xpath
+06/27/2022 08:03:39 -HomePage - INFO: Element Found with locator //a[@href='https://clienthub.pragmaticplay.com/'] and locatorType xpath
+06/27/2022 08:03:40 -HomePage - INFO: Hovered on the element with locator: //a[@href='https://clienthub.pragmaticplay.com/']  locatorType:  xpath
+06/27/2022 08:03:40 -HomePage - INFO: Element Found with locator //a[@href='https://clienthub.pragmaticplay.com/'] and locatorType xpath
+06/27/2022 08:03:40 -HomePage - INFO: Element value CSS color Found with locator //a[@href='https://clienthub.pragmaticplay.com/'] and locatorType xpath
+06/27/2022 08:03:40 -HomePage - INFO: Element Found with locator Company and locatorType linktext
+06/27/2022 08:03:40 -HomePage - INFO: Element Found with locator Company and locatorType linktext
+06/27/2022 08:03:40 -HomePage - INFO: Element value CSS background Found with locator Company and locatorType linktext
+06/27/2022 08:03:40 -HomePage - INFO: Element Found with locator Company and locatorType linktext
+06/27/2022 08:03:40 -HomePage - INFO: Hovered on the element with locator: Company  locatorType:  linktext
+06/27/2022 08:03:41 -HomePage - INFO: Element Found with locator Company and locatorType linktext
+06/27/2022 08:03:41 -HomePage - INFO: Element value CSS background Found with locator Company and locatorType linktext
+06/27/2022 08:03:41 -HomePage - INFO: Element Found with locator News and locatorType linktext
+06/27/2022 08:03:41 -HomePage - INFO: Element Found with locator News and locatorType linktext
+06/27/2022 08:03:41 -HomePage - INFO: Element value CSS color Found with locator News and locatorType linktext
+06/27/2022 08:03:41 -HomePage - INFO: Element Found with locator News and locatorType linktext
+06/27/2022 08:03:41 -HomePage - INFO: Hovered on the element with locator: News  locatorType:  linktext
+06/27/2022 08:03:41 -HomePage - INFO: Element Found with locator News and locatorType linktext
+06/27/2022 08:03:41 -HomePage - INFO: Element value CSS color Found with locator News and locatorType linktext
+06/27/2022 08:03:41 -HomePage - INFO: Element Found with locator //a[@href='https://pragmaticplay.com/en/contact#form'] and locatorType xpath
+06/27/2022 08:03:41 -HomePage - INFO: Element Found with locator //a[@href='https://pragmaticplay.com/en/contact#form'] and locatorType xpath
+06/27/2022 08:03:41 -HomePage - INFO: Element value CSS color Found with locator //a[@href='https://pragmaticplay.com/en/contact#form'] and locatorType xpath
+06/27/2022 08:03:41 -HomePage - INFO: Element Found with locator //a[@href='https://pragmaticplay.com/en/contact#form'] and locatorType xpath
+06/27/2022 08:03:41 -HomePage - INFO: Hovered on the element with locator: //a[@href='https://pragmaticplay.com/en/contact#form']  locatorType:  xpath
+06/27/2022 08:03:41 -HomePage - INFO: Element Found with locator //a[@href='https://pragmaticplay.com/en/contact#form'] and locatorType xpath
+06/27/2022 08:03:41 -HomePage - INFO: Element value CSS color Found with locator //a[@href='https://pragmaticplay.com/en/contact#form'] and locatorType xpath
+06/27/2022 08:09:11 -HomePage - INFO: Element Found with locator a[title='Home'] and locatorType css
+06/27/2022 08:09:11 -HomePage - INFO: Element value CSS color Found with locator a[title='Home'] and locatorType css
+06/27/2022 08:09:11 -HomePage - INFO: Element Found with locator a[title='Home'] and locatorType css
+06/27/2022 08:09:12 -HomePage - INFO: Hovered on the element with locator: a[title='Home']  locatorType:  css
+06/27/2022 08:09:12 -HomePage - INFO: Element Found with locator a[title='Home'] and locatorType css
+06/27/2022 08:09:12 -HomePage - INFO: Element value CSS color Found with locator a[title='Home'] and locatorType css
+06/27/2022 08:09:12 -HomePage - INFO: Element Found with locator //a[@title='Games']/div and locatorType xpath
+06/27/2022 08:09:12 -HomePage - INFO: Element value CSS background Found with locator //a[@title='Games']/div and locatorType xpath
+06/27/2022 08:09:12 -HomePage - INFO: Element Found with locator a[title='Games'] and locatorType css
+06/27/2022 08:09:12 -HomePage - INFO: Hovered on the element with locator: a[title='Games']  locatorType:  css
+06/27/2022 08:09:12 -HomePage - INFO: Element Found with locator //a[@title='Games']/div and locatorType xpath
+06/27/2022 08:09:12 -HomePage - INFO: Element value CSS background Found with locator //a[@title='Games']/div and locatorType xpath
+06/27/2022 08:09:12 -HomePage - INFO: Element Found with locator Bingo and locatorType linktext
+06/27/2022 08:09:13 -HomePage - INFO: Element Found with locator Bingo and locatorType linktext
+06/27/2022 08:09:13 -HomePage - INFO: Element value CSS color Found with locator Bingo and locatorType linktext
+06/27/2022 08:09:13 -HomePage - INFO: Element Found with locator Bingo and locatorType linktext
+06/27/2022 08:09:13 -HomePage - INFO: Hovered on the element with locator: Bingo  locatorType:  linktext
+06/27/2022 08:09:13 -HomePage - INFO: Element Found with locator Bingo and locatorType linktext
+06/27/2022 08:09:13 -HomePage - INFO: Element value CSS color Found with locator Bingo and locatorType linktext
+06/27/2022 08:09:13 -HomePage - INFO: Element Found with locator //a[@href='https://clienthub.pragmaticplay.com/'] and locatorType xpath
+06/27/2022 08:09:13 -HomePage - INFO: Element Found with locator //a[@href='https://clienthub.pragmaticplay.com/'] and locatorType xpath
+06/27/2022 08:09:13 -HomePage - INFO: Element value CSS color Found with locator //a[@href='https://clienthub.pragmaticplay.com/'] and locatorType xpath
+06/27/2022 08:09:13 -HomePage - INFO: Element Found with locator //a[@href='https://clienthub.pragmaticplay.com/'] and locatorType xpath
+06/27/2022 08:09:14 -HomePage - INFO: Hovered on the element with locator: //a[@href='https://clienthub.pragmaticplay.com/']  locatorType:  xpath
+06/27/2022 08:09:14 -HomePage - INFO: Element Found with locator //a[@href='https://clienthub.pragmaticplay.com/'] and locatorType xpath
+06/27/2022 08:09:14 -HomePage - INFO: Element value CSS color Found with locator //a[@href='https://clienthub.pragmaticplay.com/'] and locatorType xpath
+06/27/2022 08:09:14 -HomePage - INFO: Element Found with locator Company and locatorType linktext
+06/27/2022 08:09:14 -HomePage - INFO: Element Found with locator //ul[@id='menu-top-menu']//a[text()='Company'] and locatorType xpath
+06/27/2022 08:09:14 -HomePage - INFO: Element value CSS background Found with locator //ul[@id='menu-top-menu']//a[text()='Company'] and locatorType xpath
+06/27/2022 08:09:14 -HomePage - INFO: Element Found with locator Company and locatorType linktext
+06/27/2022 08:09:14 -HomePage - INFO: Hovered on the element with locator: Company  locatorType:  linktext
+06/27/2022 08:09:14 -HomePage - INFO: Element Found with locator //ul[@id='menu-top-menu']//a[text()='Company'] and locatorType xpath
+06/27/2022 08:09:14 -HomePage - INFO: Element value CSS background Found with locator //ul[@id='menu-top-menu']//a[text()='Company'] and locatorType xpath
+06/27/2022 08:09:14 -HomePage - INFO: Element Found with locator News and locatorType linktext
+06/27/2022 08:09:14 -HomePage - INFO: Element Found with locator News and locatorType linktext
+06/27/2022 08:09:14 -HomePage - INFO: Element value CSS color Found with locator News and locatorType linktext
+06/27/2022 08:09:14 -HomePage - INFO: Element Found with locator News and locatorType linktext
+06/27/2022 08:09:14 -HomePage - INFO: Hovered on the element with locator: News  locatorType:  linktext
+06/27/2022 08:09:14 -HomePage - INFO: Element Found with locator News and locatorType linktext
+06/27/2022 08:09:14 -HomePage - INFO: Element value CSS color Found with locator News and locatorType linktext
+06/27/2022 08:09:14 -HomePage - INFO: Element Found with locator //a[@href='https://pragmaticplay.com/en/contact#form'] and locatorType xpath
+06/27/2022 08:09:14 -HomePage - INFO: Element Found with locator //a[@href='https://pragmaticplay.com/en/contact#form'] and locatorType xpath
+06/27/2022 08:09:15 -HomePage - INFO: Element value CSS color Found with locator //a[@href='https://pragmaticplay.com/en/contact#form'] and locatorType xpath
+06/27/2022 08:09:15 -HomePage - INFO: Element Found with locator //a[@href='https://pragmaticplay.com/en/contact#form'] and locatorType xpath
+06/27/2022 08:09:15 -HomePage - INFO: Hovered on the element with locator: //a[@href='https://pragmaticplay.com/en/contact#form']  locatorType:  xpath
+06/27/2022 08:09:15 -HomePage - INFO: Element Found with locator //a[@href='https://pragmaticplay.com/en/contact#form'] and locatorType xpath
+06/27/2022 08:09:15 -HomePage - INFO: Element value CSS color Found with locator //a[@href='https://pragmaticplay.com/en/contact#form'] and locatorType xpath
+06/27/2022 08:16:03 -HomePage - INFO: Element Found with locator a[title='Home'] and locatorType css
+06/27/2022 08:16:03 -HomePage - INFO: Element value CSS color Found with locator a[title='Home'] and locatorType css
+06/27/2022 08:16:03 -HomePage - INFO: Element Found with locator a[title='Home'] and locatorType css
+06/27/2022 08:16:03 -HomePage - INFO: Hovered on the element with locator: a[title='Home']  locatorType:  css
+06/27/2022 08:16:03 -HomePage - INFO: Element Found with locator a[title='Home'] and locatorType css
+06/27/2022 08:16:03 -HomePage - INFO: Element value CSS color Found with locator a[title='Home'] and locatorType css
+06/27/2022 08:16:03 -HomePage - INFO: Element Found with locator //a[@title='Games']/div and locatorType xpath
+06/27/2022 08:16:03 -HomePage - INFO: Element value CSS background Found with locator //a[@title='Games']/div and locatorType xpath
+06/27/2022 08:16:03 -HomePage - INFO: Element Found with locator a[title='Games'] and locatorType css
+06/27/2022 08:16:04 -HomePage - INFO: Hovered on the element with locator: a[title='Games']  locatorType:  css
+06/27/2022 08:16:04 -HomePage - INFO: Element Found with locator //a[@title='Games']/div and locatorType xpath
+06/27/2022 08:16:04 -HomePage - INFO: Element value CSS background Found with locator //a[@title='Games']/div and locatorType xpath
+06/27/2022 08:16:04 -HomePage - INFO: Element Found with locator Bingo and locatorType linktext
+06/27/2022 08:16:04 -HomePage - INFO: Element Found with locator Bingo and locatorType linktext
+06/27/2022 08:16:04 -HomePage - INFO: Element value CSS color Found with locator Bingo and locatorType linktext
+06/27/2022 08:16:04 -HomePage - INFO: Element Found with locator Bingo and locatorType linktext
+06/27/2022 08:16:04 -HomePage - INFO: Hovered on the element with locator: Bingo  locatorType:  linktext
+06/27/2022 08:16:04 -HomePage - INFO: Element Found with locator Bingo and locatorType linktext
+06/27/2022 08:16:04 -HomePage - INFO: Element value CSS color Found with locator Bingo and locatorType linktext
+06/27/2022 08:16:04 -HomePage - INFO: Element Found with locator //a[@href='https://clienthub.pragmaticplay.com/'] and locatorType xpath
+06/27/2022 08:16:04 -HomePage - INFO: Element Found with locator //a[@href='https://clienthub.pragmaticplay.com/'] and locatorType xpath
+06/27/2022 08:16:04 -HomePage - INFO: Element value CSS color Found with locator //a[@href='https://clienthub.pragmaticplay.com/'] and locatorType xpath
+06/27/2022 08:16:04 -HomePage - INFO: Element Found with locator //a[@href='https://clienthub.pragmaticplay.com/'] and locatorType xpath
+06/27/2022 08:16:05 -HomePage - INFO: Hovered on the element with locator: //a[@href='https://clienthub.pragmaticplay.com/']  locatorType:  xpath
+06/27/2022 08:16:05 -HomePage - INFO: Element Found with locator //a[@href='https://clienthub.pragmaticplay.com/'] and locatorType xpath
+06/27/2022 08:16:05 -HomePage - INFO: Element value CSS color Found with locator //a[@href='https://clienthub.pragmaticplay.com/'] and locatorType xpath
+06/27/2022 08:16:05 -HomePage - INFO: Element Found with locator Company and locatorType linktext
+06/27/2022 08:16:05 -HomePage - INFO: Element Found with locator //ul[@id='menu-top-menu']//div[@class='arrow-menu'] and locatorType xpath
+06/27/2022 08:16:05 -HomePage - INFO: Element value CSS background Found with locator //ul[@id='menu-top-menu']//div[@class='arrow-menu'] and locatorType xpath
+06/27/2022 08:16:05 -HomePage - INFO: Element Found with locator Company and locatorType linktext
+06/27/2022 08:16:05 -HomePage - INFO: Hovered on the element with locator: Company  locatorType:  linktext
+06/27/2022 08:16:05 -HomePage - INFO: Element Found with locator //ul[@id='menu-top-menu']//div[@class='arrow-menu'] and locatorType xpath
+06/27/2022 08:16:05 -HomePage - INFO: Element value CSS background Found with locator //ul[@id='menu-top-menu']//div[@class='arrow-menu'] and locatorType xpath
+06/27/2022 08:16:05 -HomePage - INFO: Element Found with locator News and locatorType linktext
+06/27/2022 08:16:05 -HomePage - INFO: Element Found with locator News and locatorType linktext
+06/27/2022 08:16:05 -HomePage - INFO: Element value CSS color Found with locator News and locatorType linktext
+06/27/2022 08:16:05 -HomePage - INFO: Element Found with locator News and locatorType linktext
+06/27/2022 08:16:06 -HomePage - INFO: Hovered on the element with locator: News  locatorType:  linktext
+06/27/2022 08:16:06 -HomePage - INFO: Element Found with locator News and locatorType linktext
+06/27/2022 08:16:06 -HomePage - INFO: Element value CSS color Found with locator News and locatorType linktext
+06/27/2022 08:16:06 -HomePage - INFO: Element Found with locator //a[@href='https://pragmaticplay.com/en/contact#form'] and locatorType xpath
+06/27/2022 08:16:06 -HomePage - INFO: Element Found with locator //a[@href='https://pragmaticplay.com/en/contact#form'] and locatorType xpath
+06/27/2022 08:16:06 -HomePage - INFO: Element value CSS color Found with locator //a[@href='https://pragmaticplay.com/en/contact#form'] and locatorType xpath
+06/27/2022 08:16:06 -HomePage - INFO: Element Found with locator //a[@href='https://pragmaticplay.com/en/contact#form'] and locatorType xpath
+06/27/2022 08:16:06 -HomePage - INFO: Hovered on the element with locator: //a[@href='https://pragmaticplay.com/en/contact#form']  locatorType:  xpath
+06/27/2022 08:16:06 -HomePage - INFO: Element Found with locator //a[@href='https://pragmaticplay.com/en/contact#form'] and locatorType xpath
+06/27/2022 08:16:06 -HomePage - INFO: Element value CSS color Found with locator //a[@href='https://pragmaticplay.com/en/contact#form'] and locatorType xpath
+06/27/2022 08:21:42 -HomePage - INFO: Element Found with locator a[title='Home'] and locatorType css
+06/27/2022 08:21:42 -HomePage - INFO: Element value CSS color Found with locator a[title='Home'] and locatorType css
+06/27/2022 08:21:42 -HomePage - INFO: Element Found with locator a[title='Home'] and locatorType css
+06/27/2022 08:21:42 -HomePage - INFO: Hovered on the element with locator: a[title='Home']  locatorType:  css
+06/27/2022 08:21:43 -HomePage - INFO: Element Found with locator a[title='Home'] and locatorType css
+06/27/2022 08:21:43 -HomePage - INFO: Element value CSS color Found with locator a[title='Home'] and locatorType css
+06/27/2022 08:21:43 -HomePage - INFO: Element Found with locator //a[@title='Games']/div and locatorType xpath
+06/27/2022 08:21:43 -HomePage - INFO: Element value CSS background Found with locator //a[@title='Games']/div and locatorType xpath
+06/27/2022 08:21:43 -HomePage - INFO: Element Found with locator a[title='Games'] and locatorType css
+06/27/2022 08:21:43 -HomePage - INFO: Hovered on the element with locator: a[title='Games']  locatorType:  css
+06/27/2022 08:21:43 -HomePage - INFO: Element Found with locator //a[@title='Games']/div and locatorType xpath
+06/27/2022 08:21:43 -HomePage - INFO: Element value CSS background Found with locator //a[@title='Games']/div and locatorType xpath
+06/27/2022 08:21:43 -HomePage - INFO: Element Found with locator Bingo and locatorType linktext
+06/27/2022 08:21:43 -HomePage - INFO: Element Found with locator Bingo and locatorType linktext
+06/27/2022 08:21:43 -HomePage - INFO: Element value CSS color Found with locator Bingo and locatorType linktext
+06/27/2022 08:21:43 -HomePage - INFO: Element Found with locator Bingo and locatorType linktext
+06/27/2022 08:21:44 -HomePage - INFO: Hovered on the element with locator: Bingo  locatorType:  linktext
+06/27/2022 08:21:44 -HomePage - INFO: Element Found with locator Bingo and locatorType linktext
+06/27/2022 08:21:44 -HomePage - INFO: Element value CSS color Found with locator Bingo and locatorType linktext
+06/27/2022 08:21:44 -HomePage - INFO: Element Found with locator //a[@href='https://clienthub.pragmaticplay.com/'] and locatorType xpath
+06/27/2022 08:21:44 -HomePage - INFO: Element Found with locator //a[@href='https://clienthub.pragmaticplay.com/'] and locatorType xpath
+06/27/2022 08:21:44 -HomePage - INFO: Element value CSS color Found with locator //a[@href='https://clienthub.pragmaticplay.com/'] and locatorType xpath
+06/27/2022 08:21:44 -HomePage - INFO: Element Found with locator //a[@href='https://clienthub.pragmaticplay.com/'] and locatorType xpath
+06/27/2022 08:21:44 -HomePage - INFO: Hovered on the element with locator: //a[@href='https://clienthub.pragmaticplay.com/']  locatorType:  xpath
+06/27/2022 08:21:44 -HomePage - INFO: Element Found with locator //a[@href='https://clienthub.pragmaticplay.com/'] and locatorType xpath
+06/27/2022 08:21:44 -HomePage - INFO: Element value CSS color Found with locator //a[@href='https://clienthub.pragmaticplay.com/'] and locatorType xpath
+06/27/2022 08:21:44 -HomePage - INFO: Element Found with locator //ul[@id='menu-top-menu']/li[4]/a[@href='#'] and locatorType xpath
+06/27/2022 08:21:44 -HomePage - INFO: Element Found with locator //ul[@id='menu-top-menu']//div[@class='arrow-menu'] and locatorType xpath
+06/27/2022 08:21:44 -HomePage - INFO: Element value CSS background Found with locator //ul[@id='menu-top-menu']//div[@class='arrow-menu'] and locatorType xpath
+06/27/2022 08:21:44 -HomePage - INFO: Element Found with locator //ul[@id='menu-top-menu']/li[4]/a[@href='#'] and locatorType xpath
+06/27/2022 08:21:44 -HomePage - INFO: Hovered on the element with locator: //ul[@id='menu-top-menu']/li[4]/a[@href='#']  locatorType:  xpath
+06/27/2022 08:21:44 -HomePage - INFO: Element Found with locator //ul[@id='menu-top-menu']//div[@class='arrow-menu'] and locatorType xpath
+06/27/2022 08:21:44 -HomePage - INFO: Element value CSS background Found with locator //ul[@id='menu-top-menu']//div[@class='arrow-menu'] and locatorType xpath
+06/27/2022 08:21:44 -HomePage - INFO: Element Found with locator News and locatorType linktext
+06/27/2022 08:21:44 -HomePage - INFO: Element Found with locator News and locatorType linktext
+06/27/2022 08:21:44 -HomePage - INFO: Element value CSS color Found with locator News and locatorType linktext
+06/27/2022 08:21:44 -HomePage - INFO: Element Found with locator News and locatorType linktext
+06/27/2022 08:21:45 -HomePage - INFO: Hovered on the element with locator: News  locatorType:  linktext
+06/27/2022 08:21:45 -HomePage - INFO: Element Found with locator News and locatorType linktext
+06/27/2022 08:21:45 -HomePage - INFO: Element value CSS color Found with locator News and locatorType linktext
+06/27/2022 08:21:45 -HomePage - INFO: Element Found with locator //a[@href='https://pragmaticplay.com/en/contact#form'] and locatorType xpath
+06/27/2022 08:21:45 -HomePage - INFO: Element Found with locator //a[@href='https://pragmaticplay.com/en/contact#form'] and locatorType xpath
+06/27/2022 08:21:45 -HomePage - INFO: Element value CSS color Found with locator //a[@href='https://pragmaticplay.com/en/contact#form'] and locatorType xpath
+06/27/2022 08:21:45 -HomePage - INFO: Element Found with locator //a[@href='https://pragmaticplay.com/en/contact#form'] and locatorType xpath
+06/27/2022 08:21:45 -HomePage - INFO: Hovered on the element with locator: //a[@href='https://pragmaticplay.com/en/contact#form']  locatorType:  xpath
+06/27/2022 08:21:45 -HomePage - INFO: Element Found with locator //a[@href='https://pragmaticplay.com/en/contact#form'] and locatorType xpath
+06/27/2022 08:21:45 -HomePage - INFO: Element value CSS color Found with locator //a[@href='https://pragmaticplay.com/en/contact#form'] and locatorType xpath
+06/27/2022 08:22:38 -HomePage - INFO: Element Found with locator a[title='Home'] and locatorType css
+06/27/2022 08:22:38 -HomePage - INFO: Element value CSS color Found with locator a[title='Home'] and locatorType css
+06/27/2022 08:22:38 -HomePage - INFO: Element Found with locator a[title='Home'] and locatorType css
+06/27/2022 08:22:38 -HomePage - INFO: Hovered on the element with locator: a[title='Home']  locatorType:  css
+06/27/2022 08:22:38 -HomePage - INFO: Element Found with locator a[title='Home'] and locatorType css
+06/27/2022 08:22:38 -HomePage - INFO: Element value CSS color Found with locator a[title='Home'] and locatorType css
+06/27/2022 08:22:38 -HomePage - INFO: Element Found with locator //a[@title='Games']/div and locatorType xpath
+06/27/2022 08:22:38 -HomePage - INFO: Element value CSS background Found with locator //a[@title='Games']/div and locatorType xpath
+06/27/2022 08:22:38 -HomePage - INFO: Element Found with locator a[title='Games'] and locatorType css
+06/27/2022 08:22:39 -HomePage - INFO: Hovered on the element with locator: a[title='Games']  locatorType:  css
+06/27/2022 08:22:39 -HomePage - INFO: Element Found with locator //a[@title='Games']/div and locatorType xpath
+06/27/2022 08:22:39 -HomePage - INFO: Element value CSS background Found with locator //a[@title='Games']/div and locatorType xpath
+06/27/2022 08:22:39 -HomePage - INFO: Element Found with locator Bingo and locatorType linktext
+06/27/2022 08:22:39 -HomePage - INFO: Element Found with locator Bingo and locatorType linktext
+06/27/2022 08:22:39 -HomePage - INFO: Element value CSS color Found with locator Bingo and locatorType linktext
+06/27/2022 08:22:39 -HomePage - INFO: Element Found with locator Bingo and locatorType linktext
+06/27/2022 08:22:39 -HomePage - INFO: Hovered on the element with locator: Bingo  locatorType:  linktext
+06/27/2022 08:22:39 -HomePage - INFO: Element Found with locator Bingo and locatorType linktext
+06/27/2022 08:22:39 -HomePage - INFO: Element value CSS color Found with locator Bingo and locatorType linktext
+06/27/2022 08:22:39 -HomePage - INFO: Element Found with locator //a[@href='https://clienthub.pragmaticplay.com/'] and locatorType xpath
+06/27/2022 08:22:39 -HomePage - INFO: Element Found with locator //a[@href='https://clienthub.pragmaticplay.com/'] and locatorType xpath
+06/27/2022 08:22:39 -HomePage - INFO: Element value CSS color Found with locator //a[@href='https://clienthub.pragmaticplay.com/'] and locatorType xpath
+06/27/2022 08:22:39 -HomePage - INFO: Element Found with locator //a[@href='https://clienthub.pragmaticplay.com/'] and locatorType xpath
+06/27/2022 08:22:40 -HomePage - INFO: Hovered on the element with locator: //a[@href='https://clienthub.pragmaticplay.com/']  locatorType:  xpath
+06/27/2022 08:22:40 -HomePage - INFO: Element Found with locator //a[@href='https://clienthub.pragmaticplay.com/'] and locatorType xpath
+06/27/2022 08:22:40 -HomePage - INFO: Element value CSS color Found with locator //a[@href='https://clienthub.pragmaticplay.com/'] and locatorType xpath
+06/27/2022 08:22:40 -HomePage - INFO: Element Found with locator //ul[@id='menu-top-menu']/li[4]/a[@href='#'] and locatorType xpath
+06/27/2022 08:22:40 -HomePage - INFO: Element Found with locator //ul[@id='menu-top-menu']//div[@class='arrow-menu'] and locatorType xpath
+06/27/2022 08:22:40 -HomePage - INFO: Element value CSS background Found with locator //ul[@id='menu-top-menu']//div[@class='arrow-menu'] and locatorType xpath
+06/27/2022 08:22:40 -HomePage - INFO: Element Found with locator //ul[@id='menu-top-menu']/li[4]/a[@href='#'] and locatorType xpath
+06/27/2022 08:22:40 -HomePage - INFO: Hovered on the element with locator: //ul[@id='menu-top-menu']/li[4]/a[@href='#']  locatorType:  xpath
+06/27/2022 08:22:42 -HomePage - INFO: Element Found with locator //ul[@id='menu-top-menu']//div[@class='arrow-menu'] and locatorType xpath
+06/27/2022 08:22:42 -HomePage - INFO: Element value CSS background Found with locator //ul[@id='menu-top-menu']//div[@class='arrow-menu'] and locatorType xpath
+06/27/2022 08:22:42 -HomePage - INFO: Element Found with locator News and locatorType linktext
+06/27/2022 08:22:42 -HomePage - INFO: Element Found with locator News and locatorType linktext
+06/27/2022 08:22:42 -HomePage - INFO: Element value CSS color Found with locator News and locatorType linktext
+06/27/2022 08:22:42 -HomePage - INFO: Element Found with locator News and locatorType linktext
+06/27/2022 08:22:42 -HomePage - INFO: Hovered on the element with locator: News  locatorType:  linktext
+06/27/2022 08:22:42 -HomePage - INFO: Element Found with locator News and locatorType linktext
+06/27/2022 08:22:42 -HomePage - INFO: Element value CSS color Found with locator News and locatorType linktext
+06/27/2022 08:22:43 -HomePage - INFO: Element Found with locator //a[@href='https://pragmaticplay.com/en/contact#form'] and locatorType xpath
+06/27/2022 08:22:43 -HomePage - INFO: Element Found with locator //a[@href='https://pragmaticplay.com/en/contact#form'] and locatorType xpath
+06/27/2022 08:22:43 -HomePage - INFO: Element value CSS color Found with locator //a[@href='https://pragmaticplay.com/en/contact#form'] and locatorType xpath
+06/27/2022 08:22:43 -HomePage - INFO: Element Found with locator //a[@href='https://pragmaticplay.com/en/contact#form'] and locatorType xpath
+06/27/2022 08:22:43 -HomePage - INFO: Hovered on the element with locator: //a[@href='https://pragmaticplay.com/en/contact#form']  locatorType:  xpath
+06/27/2022 08:22:43 -HomePage - INFO: Element Found with locator //a[@href='https://pragmaticplay.com/en/contact#form'] and locatorType xpath
+06/27/2022 08:22:43 -HomePage - INFO: Element value CSS color Found with locator //a[@href='https://pragmaticplay.com/en/contact#form'] and locatorType xpath
+06/27/2022 08:23:35 -HomePage - INFO: Element Found with locator a[title='Home'] and locatorType css
+06/27/2022 08:23:35 -HomePage - INFO: Element value CSS color Found with locator a[title='Home'] and locatorType css
+06/27/2022 08:23:35 -HomePage - INFO: Element Found with locator a[title='Home'] and locatorType css
+06/27/2022 08:23:36 -HomePage - INFO: Hovered on the element with locator: a[title='Home']  locatorType:  css
+06/27/2022 08:23:36 -HomePage - INFO: Element Found with locator a[title='Home'] and locatorType css
+06/27/2022 08:23:36 -HomePage - INFO: Element value CSS color Found with locator a[title='Home'] and locatorType css
+06/27/2022 08:23:36 -HomePage - INFO: Element Found with locator //a[@title='Games']/div and locatorType xpath
+06/27/2022 08:23:36 -HomePage - INFO: Element value CSS background Found with locator //a[@title='Games']/div and locatorType xpath
+06/27/2022 08:23:36 -HomePage - INFO: Element Found with locator a[title='Games'] and locatorType css
+06/27/2022 08:23:36 -HomePage - INFO: Hovered on the element with locator: a[title='Games']  locatorType:  css
+06/27/2022 08:23:36 -HomePage - INFO: Element Found with locator //a[@title='Games']/div and locatorType xpath
+06/27/2022 08:23:36 -HomePage - INFO: Element value CSS background Found with locator //a[@title='Games']/div and locatorType xpath
+06/27/2022 08:23:36 -HomePage - INFO: Element Found with locator Bingo and locatorType linktext
+06/27/2022 08:23:36 -HomePage - INFO: Element Found with locator Bingo and locatorType linktext
+06/27/2022 08:23:36 -HomePage - INFO: Element value CSS color Found with locator Bingo and locatorType linktext
+06/27/2022 08:23:36 -HomePage - INFO: Element Found with locator Bingo and locatorType linktext
+06/27/2022 08:23:37 -HomePage - INFO: Hovered on the element with locator: Bingo  locatorType:  linktext
+06/27/2022 08:23:37 -HomePage - INFO: Element Found with locator Bingo and locatorType linktext
+06/27/2022 08:23:37 -HomePage - INFO: Element value CSS color Found with locator Bingo and locatorType linktext
+06/27/2022 08:23:37 -HomePage - INFO: Element Found with locator //a[@href='https://clienthub.pragmaticplay.com/'] and locatorType xpath
+06/27/2022 08:23:37 -HomePage - INFO: Element Found with locator //a[@href='https://clienthub.pragmaticplay.com/'] and locatorType xpath
+06/27/2022 08:23:37 -HomePage - INFO: Element value CSS color Found with locator //a[@href='https://clienthub.pragmaticplay.com/'] and locatorType xpath
+06/27/2022 08:23:37 -HomePage - INFO: Element Found with locator //a[@href='https://clienthub.pragmaticplay.com/'] and locatorType xpath
+06/27/2022 08:23:37 -HomePage - INFO: Hovered on the element with locator: //a[@href='https://clienthub.pragmaticplay.com/']  locatorType:  xpath
+06/27/2022 08:23:37 -HomePage - INFO: Element Found with locator //a[@href='https://clienthub.pragmaticplay.com/'] and locatorType xpath
+06/27/2022 08:23:37 -HomePage - INFO: Element value CSS color Found with locator //a[@href='https://clienthub.pragmaticplay.com/'] and locatorType xpath
+06/27/2022 08:23:37 -HomePage - INFO: Element Found with locator Company and locatorType linktext
+06/27/2022 08:23:37 -HomePage - INFO: Element Found with locator //ul[@id='menu-top-menu']//div[@class='arrow-menu'] and locatorType xpath
+06/27/2022 08:23:37 -HomePage - INFO: Element value CSS background Found with locator //ul[@id='menu-top-menu']//div[@class='arrow-menu'] and locatorType xpath
+06/27/2022 08:23:37 -HomePage - INFO: Element Found with locator Company and locatorType linktext
+06/27/2022 08:23:37 -HomePage - INFO: Hovered on the element with locator: Company  locatorType:  linktext
+06/27/2022 08:23:39 -HomePage - INFO: Element Found with locator //ul[@id='menu-top-menu']//div[@class='arrow-menu'] and locatorType xpath
+06/27/2022 08:23:39 -HomePage - INFO: Element value CSS background Found with locator //ul[@id='menu-top-menu']//div[@class='arrow-menu'] and locatorType xpath
+06/27/2022 08:23:39 -HomePage - INFO: Element Found with locator News and locatorType linktext
+06/27/2022 08:23:39 -HomePage - INFO: Element Found with locator News and locatorType linktext
+06/27/2022 08:23:39 -HomePage - INFO: Element value CSS color Found with locator News and locatorType linktext
+06/27/2022 08:23:39 -HomePage - INFO: Element Found with locator News and locatorType linktext
+06/27/2022 08:23:40 -HomePage - INFO: Hovered on the element with locator: News  locatorType:  linktext
+06/27/2022 08:23:40 -HomePage - INFO: Element Found with locator News and locatorType linktext
+06/27/2022 08:23:40 -HomePage - INFO: Element value CSS color Found with locator News and locatorType linktext
+06/27/2022 08:23:40 -HomePage - INFO: Element Found with locator //a[@href='https://pragmaticplay.com/en/contact#form'] and locatorType xpath
+06/27/2022 08:23:40 -HomePage - INFO: Element Found with locator //a[@href='https://pragmaticplay.com/en/contact#form'] and locatorType xpath
+06/27/2022 08:23:40 -HomePage - INFO: Element value CSS color Found with locator //a[@href='https://pragmaticplay.com/en/contact#form'] and locatorType xpath
+06/27/2022 08:23:40 -HomePage - INFO: Element Found with locator //a[@href='https://pragmaticplay.com/en/contact#form'] and locatorType xpath
+06/27/2022 08:23:40 -HomePage - INFO: Hovered on the element with locator: //a[@href='https://pragmaticplay.com/en/contact#form']  locatorType:  xpath
+06/27/2022 08:23:40 -HomePage - INFO: Element Found with locator //a[@href='https://pragmaticplay.com/en/contact#form'] and locatorType xpath
+06/27/2022 08:23:40 -HomePage - INFO: Element value CSS color Found with locator //a[@href='https://pragmaticplay.com/en/contact#form'] and locatorType xpath
+06/27/2022 08:26:16 -HomePage - INFO: Element Found with locator a[title='Home'] and locatorType css
+06/27/2022 08:26:16 -HomePage - INFO: Element value CSS color Found with locator a[title='Home'] and locatorType css
+06/27/2022 08:26:16 -HomePage - INFO: Element Found with locator a[title='Home'] and locatorType css
+06/27/2022 08:26:17 -HomePage - INFO: Hovered on the element with locator: a[title='Home']  locatorType:  css
+06/27/2022 08:26:17 -HomePage - INFO: Element Found with locator a[title='Home'] and locatorType css
+06/27/2022 08:26:17 -HomePage - INFO: Element value CSS color Found with locator a[title='Home'] and locatorType css
+06/27/2022 08:26:17 -HomePage - INFO: Element Found with locator //a[@title='Games']/div and locatorType xpath
+06/27/2022 08:26:17 -HomePage - INFO: Element value CSS background Found with locator //a[@title='Games']/div and locatorType xpath
+06/27/2022 08:26:17 -HomePage - INFO: Element Found with locator a[title='Games'] and locatorType css
+06/27/2022 08:26:17 -HomePage - INFO: Hovered on the element with locator: a[title='Games']  locatorType:  css
+06/27/2022 08:26:17 -HomePage - INFO: Element Found with locator //a[@title='Games']/div and locatorType xpath
+06/27/2022 08:26:17 -HomePage - INFO: Element value CSS background Found with locator //a[@title='Games']/div and locatorType xpath
+06/27/2022 08:26:18 -HomePage - INFO: Element Found with locator Bingo and locatorType linktext
+06/27/2022 08:26:18 -HomePage - INFO: Element Found with locator Bingo and locatorType linktext
+06/27/2022 08:26:18 -HomePage - INFO: Element value CSS color Found with locator Bingo and locatorType linktext
+06/27/2022 08:26:18 -HomePage - INFO: Element Found with locator Bingo and locatorType linktext
+06/27/2022 08:26:18 -HomePage - INFO: Hovered on the element with locator: Bingo  locatorType:  linktext
+06/27/2022 08:26:18 -HomePage - INFO: Element Found with locator Bingo and locatorType linktext
+06/27/2022 08:26:18 -HomePage - INFO: Element value CSS color Found with locator Bingo and locatorType linktext
+06/27/2022 08:26:18 -HomePage - INFO: Element Found with locator //a[@href='https://clienthub.pragmaticplay.com/'] and locatorType xpath
+06/27/2022 08:26:18 -HomePage - INFO: Element Found with locator //a[@href='https://clienthub.pragmaticplay.com/'] and locatorType xpath
+06/27/2022 08:26:18 -HomePage - INFO: Element value CSS color Found with locator //a[@href='https://clienthub.pragmaticplay.com/'] and locatorType xpath
+06/27/2022 08:26:18 -HomePage - INFO: Element Found with locator //a[@href='https://clienthub.pragmaticplay.com/'] and locatorType xpath
+06/27/2022 08:26:19 -HomePage - INFO: Hovered on the element with locator: //a[@href='https://clienthub.pragmaticplay.com/']  locatorType:  xpath
+06/27/2022 08:26:19 -HomePage - INFO: Element Found with locator //a[@href='https://clienthub.pragmaticplay.com/'] and locatorType xpath
+06/27/2022 08:26:19 -HomePage - INFO: Element value CSS color Found with locator //a[@href='https://clienthub.pragmaticplay.com/'] and locatorType xpath
+06/27/2022 08:26:19 -HomePage - INFO: Element Found with locator Company and locatorType linktext
+06/27/2022 08:26:19 -HomePage - INFO: Element not Found with locator ///ul[@id='menu-top-menu']/li[4]//div[@class='arrow-menu'] and locatorType xpath
+06/27/2022 08:26:19 -HomePage - INFO: Element value CSS background not Found with locator ///ul[@id='menu-top-menu']/li[4]//div[@class='arrow-menu'] and locatorType xpath
+06/27/2022 08:26:19 -HomePage - INFO: Element Found with locator Company and locatorType linktext
+06/27/2022 08:26:19 -HomePage - INFO: Hovered on the element with locator: Company  locatorType:  linktext
+06/27/2022 08:26:21 -HomePage - INFO: Element not Found with locator ///ul[@id='menu-top-menu']/li[4]//div[@class='arrow-menu'] and locatorType xpath
+06/27/2022 08:26:21 -HomePage - INFO: Element value CSS background not Found with locator ///ul[@id='menu-top-menu']/li[4]//div[@class='arrow-menu'] and locatorType xpath
+06/27/2022 08:26:21 -HomePage - INFO: Element Found with locator News and locatorType linktext
+06/27/2022 08:26:21 -HomePage - INFO: Element Found with locator News and locatorType linktext
+06/27/2022 08:26:21 -HomePage - INFO: Element value CSS color Found with locator News and locatorType linktext
+06/27/2022 08:26:21 -HomePage - INFO: Element Found with locator News and locatorType linktext
+06/27/2022 08:26:22 -HomePage - INFO: Hovered on the element with locator: News  locatorType:  linktext
+06/27/2022 08:26:22 -HomePage - INFO: Element Found with locator News and locatorType linktext
+06/27/2022 08:26:22 -HomePage - INFO: Element value CSS color Found with locator News and locatorType linktext
+06/27/2022 08:26:22 -HomePage - INFO: Element Found with locator //a[@href='https://pragmaticplay.com/en/contact#form'] and locatorType xpath
+06/27/2022 08:26:22 -HomePage - INFO: Element Found with locator //a[@href='https://pragmaticplay.com/en/contact#form'] and locatorType xpath
+06/27/2022 08:26:22 -HomePage - INFO: Element value CSS color Found with locator //a[@href='https://pragmaticplay.com/en/contact#form'] and locatorType xpath
+06/27/2022 08:26:22 -HomePage - INFO: Element Found with locator //a[@href='https://pragmaticplay.com/en/contact#form'] and locatorType xpath
+06/27/2022 08:26:22 -HomePage - INFO: Hovered on the element with locator: //a[@href='https://pragmaticplay.com/en/contact#form']  locatorType:  xpath
+06/27/2022 08:26:22 -HomePage - INFO: Element Found with locator //a[@href='https://pragmaticplay.com/en/contact#form'] and locatorType xpath
+06/27/2022 08:26:22 -HomePage - INFO: Element value CSS color Found with locator //a[@href='https://pragmaticplay.com/en/contact#form'] and locatorType xpath
+06/27/2022 08:30:30 -HomePage - INFO: Element Found with locator a[title='Home'] and locatorType css
+06/27/2022 08:30:30 -HomePage - INFO: Element value CSS color Found with locator a[title='Home'] and locatorType css
+06/27/2022 08:30:30 -HomePage - INFO: Element Found with locator a[title='Home'] and locatorType css
+06/27/2022 08:30:31 -HomePage - INFO: Hovered on the element with locator: a[title='Home']  locatorType:  css
+06/27/2022 08:30:31 -HomePage - INFO: Element Found with locator a[title='Home'] and locatorType css
+06/27/2022 08:30:31 -HomePage - INFO: Element value CSS color Found with locator a[title='Home'] and locatorType css
+06/27/2022 08:30:31 -HomePage - INFO: Element Found with locator //a[@title='Games']/div and locatorType xpath
+06/27/2022 08:30:31 -HomePage - INFO: Element value CSS background Found with locator //a[@title='Games']/div and locatorType xpath
+06/27/2022 08:30:31 -HomePage - INFO: Element Found with locator a[title='Games'] and locatorType css
+06/27/2022 08:30:31 -HomePage - INFO: Hovered on the element with locator: a[title='Games']  locatorType:  css
+06/27/2022 08:30:31 -HomePage - INFO: Element Found with locator //a[@title='Games']/div and locatorType xpath
+06/27/2022 08:30:31 -HomePage - INFO: Element value CSS background Found with locator //a[@title='Games']/div and locatorType xpath
+06/27/2022 08:30:31 -HomePage - INFO: Element Found with locator Bingo and locatorType linktext
+06/27/2022 08:30:31 -HomePage - INFO: Element Found with locator Bingo and locatorType linktext
+06/27/2022 08:30:32 -HomePage - INFO: Element value CSS color Found with locator Bingo and locatorType linktext
+06/27/2022 08:30:32 -HomePage - INFO: Element Found with locator Bingo and locatorType linktext
+06/27/2022 08:30:32 -HomePage - INFO: Hovered on the element with locator: Bingo  locatorType:  linktext
+06/27/2022 08:30:32 -HomePage - INFO: Element Found with locator Bingo and locatorType linktext
+06/27/2022 08:30:32 -HomePage - INFO: Element value CSS color Found with locator Bingo and locatorType linktext
+06/27/2022 08:30:32 -HomePage - INFO: Element Found with locator //a[@href='https://clienthub.pragmaticplay.com/'] and locatorType xpath
+06/27/2022 08:30:32 -HomePage - INFO: Element Found with locator //a[@href='https://clienthub.pragmaticplay.com/'] and locatorType xpath
+06/27/2022 08:30:32 -HomePage - INFO: Element value CSS color Found with locator //a[@href='https://clienthub.pragmaticplay.com/'] and locatorType xpath
+06/27/2022 08:30:32 -HomePage - INFO: Element Found with locator //a[@href='https://clienthub.pragmaticplay.com/'] and locatorType xpath
+06/27/2022 08:30:32 -HomePage - INFO: Hovered on the element with locator: //a[@href='https://clienthub.pragmaticplay.com/']  locatorType:  xpath
+06/27/2022 08:30:32 -HomePage - INFO: Element Found with locator //a[@href='https://clienthub.pragmaticplay.com/'] and locatorType xpath
+06/27/2022 08:30:32 -HomePage - INFO: Element value CSS color Found with locator //a[@href='https://clienthub.pragmaticplay.com/'] and locatorType xpath
+06/27/2022 08:30:32 -HomePage - INFO: Element Found with locator Company and locatorType linktext
+06/27/2022 08:30:32 -HomePage - INFO: Element Found with locator //ul[@id='menu-top-menu']/li[4]//div[@class='arrow-menu'] and locatorType xpath
+06/27/2022 08:30:32 -HomePage - INFO: Element value CSS background Found with locator //ul[@id='menu-top-menu']/li[4]//div[@class='arrow-menu'] and locatorType xpath
+06/27/2022 08:30:32 -HomePage - INFO: Element Found with locator Company and locatorType linktext
+06/27/2022 08:30:33 -HomePage - INFO: Hovered on the element with locator: Company  locatorType:  linktext
+06/27/2022 08:30:35 -HomePage - INFO: Element Found with locator //ul[@id='menu-top-menu']/li[4]//div[@class='arrow-menu'] and locatorType xpath
+06/27/2022 08:30:35 -HomePage - INFO: Element value CSS background Found with locator //ul[@id='menu-top-menu']/li[4]//div[@class='arrow-menu'] and locatorType xpath
+06/27/2022 08:30:35 -HomePage - INFO: Element Found with locator News and locatorType linktext
+06/27/2022 08:30:35 -HomePage - INFO: Element Found with locator News and locatorType linktext
+06/27/2022 08:30:35 -HomePage - INFO: Element value CSS color Found with locator News and locatorType linktext
+06/27/2022 08:30:35 -HomePage - INFO: Element Found with locator News and locatorType linktext
+06/27/2022 08:30:35 -HomePage - INFO: Hovered on the element with locator: News  locatorType:  linktext
+06/27/2022 08:30:35 -HomePage - INFO: Element Found with locator News and locatorType linktext
+06/27/2022 08:30:35 -HomePage - INFO: Element value CSS color Found with locator News and locatorType linktext
+06/27/2022 08:30:35 -HomePage - INFO: Element Found with locator //a[@href='https://pragmaticplay.com/en/contact#form'] and locatorType xpath
+06/27/2022 08:30:35 -HomePage - INFO: Element Found with locator //a[@href='https://pragmaticplay.com/en/contact#form'] and locatorType xpath
+06/27/2022 08:30:35 -HomePage - INFO: Element value CSS color Found with locator //a[@href='https://pragmaticplay.com/en/contact#form'] and locatorType xpath
+06/27/2022 08:30:35 -HomePage - INFO: Element Found with locator //a[@href='https://pragmaticplay.com/en/contact#form'] and locatorType xpath
+06/27/2022 08:30:35 -HomePage - INFO: Hovered on the element with locator: //a[@href='https://pragmaticplay.com/en/contact#form']  locatorType:  xpath
+06/27/2022 08:30:35 -HomePage - INFO: Element Found with locator //a[@href='https://pragmaticplay.com/en/contact#form'] and locatorType xpath
+06/27/2022 08:30:35 -HomePage - INFO: Element value CSS color Found with locator //a[@href='https://pragmaticplay.com/en/contact#form'] and locatorType xpath
+06/27/2022 08:32:49 -HomePage - INFO: Element Found with locator a[title='Home'] and locatorType css
+06/27/2022 08:32:50 -HomePage - INFO: Element value CSS color Found with locator a[title='Home'] and locatorType css
+06/27/2022 08:32:50 -HomePage - INFO: Element Found with locator a[title='Home'] and locatorType css
+06/27/2022 08:32:50 -HomePage - INFO: Hovered on the element with locator: a[title='Home']  locatorType:  css
+06/27/2022 08:32:50 -HomePage - INFO: Element Found with locator a[title='Home'] and locatorType css
+06/27/2022 08:32:50 -HomePage - INFO: Element value CSS color Found with locator a[title='Home'] and locatorType css
+06/27/2022 08:32:50 -HomePage - INFO: Element Found with locator //a[@title='Games']/div and locatorType xpath
+06/27/2022 08:32:50 -HomePage - INFO: Element value CSS background Found with locator //a[@title='Games']/div and locatorType xpath
+06/27/2022 08:32:50 -HomePage - INFO: Element Found with locator a[title='Games'] and locatorType css
+06/27/2022 08:32:51 -HomePage - INFO: Hovered on the element with locator: a[title='Games']  locatorType:  css
+06/27/2022 08:32:51 -HomePage - INFO: Element Found with locator //a[@title='Games']/div and locatorType xpath
+06/27/2022 08:32:51 -HomePage - INFO: Element value CSS background Found with locator //a[@title='Games']/div and locatorType xpath
+06/27/2022 08:32:51 -HomePage - INFO: Element Found with locator Bingo and locatorType linktext
+06/27/2022 08:32:51 -HomePage - INFO: Element value CSS color Found with locator Bingo and locatorType linktext
+06/27/2022 08:32:51 -HomePage - INFO: Element Found with locator Bingo and locatorType linktext
+06/27/2022 08:32:51 -HomePage - INFO: Hovered on the element with locator: Bingo  locatorType:  linktext
+06/27/2022 08:32:51 -HomePage - INFO: Element Found with locator Bingo and locatorType linktext
+06/27/2022 08:32:51 -HomePage - INFO: Element value CSS color Found with locator Bingo and locatorType linktext
+06/27/2022 08:32:51 -HomePage - INFO: Element Found with locator //a[@href='https://clienthub.pragmaticplay.com/'] and locatorType xpath
+06/27/2022 08:32:51 -HomePage - INFO: Element value CSS color Found with locator //a[@href='https://clienthub.pragmaticplay.com/'] and locatorType xpath
+06/27/2022 08:32:51 -HomePage - INFO: Element Found with locator //a[@href='https://clienthub.pragmaticplay.com/'] and locatorType xpath
+06/27/2022 08:32:52 -HomePage - INFO: Hovered on the element with locator: //a[@href='https://clienthub.pragmaticplay.com/']  locatorType:  xpath
+06/27/2022 08:32:52 -HomePage - INFO: Element Found with locator //a[@href='https://clienthub.pragmaticplay.com/'] and locatorType xpath
+06/27/2022 08:32:52 -HomePage - INFO: Element value CSS color Found with locator //a[@href='https://clienthub.pragmaticplay.com/'] and locatorType xpath
+06/27/2022 08:32:52 -HomePage - INFO: Element Found with locator //ul[@id='menu-top-menu']/li[4]//div[@class='arrow-menu'] and locatorType xpath
+06/27/2022 08:32:52 -HomePage - INFO: Element value CSS background Found with locator //ul[@id='menu-top-menu']/li[4]//div[@class='arrow-menu'] and locatorType xpath
+06/27/2022 08:32:52 -HomePage - INFO: Element Found with locator Company and locatorType linktext
+06/27/2022 08:32:52 -HomePage - INFO: Hovered on the element with locator: Company  locatorType:  linktext
+06/27/2022 08:32:52 -HomePage - INFO: Element Found with locator //ul[@id='menu-top-menu']/li[4]//div[@class='arrow-menu'] and locatorType xpath
+06/27/2022 08:32:53 -HomePage - INFO: Element value CSS background Found with locator //ul[@id='menu-top-menu']/li[4]//div[@class='arrow-menu'] and locatorType xpath
+06/27/2022 08:32:53 -HomePage - INFO: Element Found with locator News and locatorType linktext
+06/27/2022 08:32:53 -HomePage - INFO: Element value CSS color Found with locator News and locatorType linktext
+06/27/2022 08:32:53 -HomePage - INFO: Element Found with locator News and locatorType linktext
+06/27/2022 08:32:53 -HomePage - INFO: Hovered on the element with locator: News  locatorType:  linktext
+06/27/2022 08:32:53 -HomePage - INFO: Element Found with locator News and locatorType linktext
+06/27/2022 08:32:53 -HomePage - INFO: Element value CSS color Found with locator News and locatorType linktext
+06/27/2022 08:32:53 -HomePage - INFO: Element Found with locator //a[@href='https://pragmaticplay.com/en/contact#form'] and locatorType xpath
+06/27/2022 08:32:53 -HomePage - INFO: Element value CSS color Found with locator //a[@href='https://pragmaticplay.com/en/contact#form'] and locatorType xpath
+06/27/2022 08:32:53 -HomePage - INFO: Element Found with locator //a[@href='https://pragmaticplay.com/en/contact#form'] and locatorType xpath
+06/27/2022 08:32:54 -HomePage - INFO: Hovered on the element with locator: //a[@href='https://pragmaticplay.com/en/contact#form']  locatorType:  xpath
+06/27/2022 08:32:54 -HomePage - INFO: Element Found with locator //a[@href='https://pragmaticplay.com/en/contact#form'] and locatorType xpath
+06/27/2022 08:32:54 -HomePage - INFO: Element value CSS color Found with locator //a[@href='https://pragmaticplay.com/en/contact#form'] and locatorType xpath
