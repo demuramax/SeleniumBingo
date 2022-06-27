@@ -72,43 +72,5 @@ class CustomDriver():
             self.log.info(f'Cannot hover on the element with locator {locator} locatorType: {locatorType}')
             print_stack()
 
-    def is_element_present(self, locator, locatorType='id'):
-        try:
-            element = self.get_element(locator, locatorType)
-            if element is not None:
-                self.log.info('Element Found')
-                return True
-            else:
-                return False
-        except:
-            self.log.info('Element not found')
-        return False
 
-    def elementPresenceCheck(self, locator, byType):
-        try:
-            elementList = self.driver.find_elements(byType, locator)
-            if len(elementList) > 0:
-                self.log.info('Element Found')
-                return True
-            else:
-                return False
-        except:
-            self.log.info('Element not found')
-        return False
 
-    def waitForElement(self, locator, locatorType='id', timeout=10, pollFrequency=0.5):
-        element = None
-        try:
-            byType = self.getByType(locatorType)
-            self.log.info(f'Waiting for maximum: {str(timeout)} seconds for element to be clickable')
-            wait = WebDriverWait(self.driver, 10, poll_frequency=1,
-                                 ignored_exceptions=[NoSuchFrameException, ElementNotVisibleException,
-                                                     ElementNotSelectableException])
-            element = wait.until(EC.element_to_be_clickable((byType, 'stopFilter_stops-0')))
-
-            self.log.info('Element appeared on the web page')
-
-        except:
-            self.log.info('Element not appeared on the web page')
-            print_stack()
-        return element

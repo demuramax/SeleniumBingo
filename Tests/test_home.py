@@ -1,8 +1,7 @@
-import time
+import pytest
 from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver import ActionChains
 from Pages.home import HomePage
+from Pages.bingo import BingoPage
 
 
 class TestHome():
@@ -25,5 +24,3 @@ class TestHome():
         hp.test_contact_link()
 
 
-# cc = TestHome()
-# cc.test1()
